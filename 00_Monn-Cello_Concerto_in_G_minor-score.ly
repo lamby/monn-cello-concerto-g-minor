@@ -67,7 +67,7 @@
 <<
 <<
 	\new StaffGroup <<
-	\new Staff << { \set Staff.shortInstrumentName = #"Fag.   " \solocelloa } >> >>
+	\new Staff << { \set Staff.shortInstrumentName = #"Solo Vlc.   " \solocelloa } >> >>
 	\new StaffGroup <<
 	\new GrandStaff <<
 
@@ -86,7 +86,7 @@
 
 <<
 \new StaffGroup <<
-\new Staff << { \set Staff.shortInstrumentName = #"Fag.   " \solocellob } >> >>
+\new Staff << { \set Staff.shortInstrumentName = #"Solo Vlc.   " \solocellob } >> >>
 \new StaffGroup <<
 \new GrandStaff <<
 
@@ -105,7 +105,7 @@
 
 <<
 \new StaffGroup <<
-\new Staff << { \set Staff.shortInstrumentName = #"Fag.   " \solocelloc } >> >>
+\new Staff << { \set Staff.shortInstrumentName = #"Solo Vlc.   " \solocelloc } >> >>
 \new StaffGroup <<
 \new GrandStaff <<
 
