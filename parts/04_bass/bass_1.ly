@@ -30,8 +30,7 @@ bassa = \relative {
 	g ees c d g,4 r |
 
 	# 20
-	\solo
-	g'8 g g f ees bes c d |
+	\solo g'8 g g f ees bes c d |
 	g4 r8 g,16 a bes8 ees c d |
 	g, bes16. d32 g8 g fis fis f f |
 	e e ees ees d d d g, |
@@ -49,7 +48,7 @@ bassa = \relative {
 	bes r c r d r ees r |
 	r f16 g a8 f bes d, ees f |
 	bes bes, d f bes g ees f |
-	bes, bes bes c d g ees f |
+	\solo bes, bes bes c d g ees f |
 	bes bes, r d'16 c b8 d f, g |
 	c c, r c16 d ees8 aes f g |
 	c, ees16. g32 c4 bes,8 d16. g32 bes4 |
@@ -58,7 +57,7 @@ bassa = \relative {
 	aes,8 c16. f32 aes4 g8 g g c, |
 	g g'16 a b8 g c ees, f g |
 	c,4 r r8 aes f g |
-	c,4 r8 c'16 d ees8 aes f g |
+	\solo c,4 r8 c'16 d ees8 aes f g |
 	c,4 r8 c'~ c b r g |
 	c c, r c f g aes f |
 	g8. aes16 g8 f e4 c |
@@ -74,14 +73,14 @@ bassa = \relative {
 	bes bes bes bes ees f g aes |
 	bes4 bes, ees8 d ees f |
 	g aes bes bes, ees bes ees,4 |
-	r1 |
+	\tutti r1 |
 	ees'8 ees ees ees bes d ees ees, |
 	aes' f bes g c aes d bes |
 
 	# 60
 	ees ees, ees' ees, r aes bes bes, | 
 	ees' ees, ees' ees, r aes bes bes, |
-	ees4 r r r8 ees( |
+	\solo ees4 r r r8 ees( |
 	d ees) r ees( d ees) r4 |
 	r2 r4 r8 c( |
 	d ees) r c( bes ees) r4 |
@@ -103,22 +102,22 @@ bassa = \relative {
 	r8 bes' g a d,4 r |
 
 	# 80
-	r8 bes g a d d' d c |
+	r8 bes g a \tutti d d' d c |
 	bes f g a d, d, r d'16 e |
-	f8 bes g a d,4 r |
+	f8 bes g \solo a d,4 r |
 	g, r c r |
 	f r bes r |
 	ees, r a r |
 	d, r g, fis |
 	g a bes c |
-	d8. ees16 d c bes a g8 g' g f |
+	d8. ees16 d c bes a \tutti g8 g' g f |
 	ees bes c d g4 r8 g,16 a |
 
 	# 90
 	bes8 ees c d g, bes16. d32 g4 |
 	f,8 a16. d32 f4 ees,8 g16. c32 ees4 |
 	d8 d d g, d'4 d, |
-	g b c r |
+	\tutti g b c r |
 	f a bes r |
 	ees, g a r |
 	d, fis g8 g, r a' |
@@ -131,7 +130,7 @@ bassa = \relative {
 	d c bes c bes ees c d |
 	g,4 r r8 ees' c d |
 	g4 r r8 ees c d |
-	g, g'( aes) r r a bes( b) |
+	\tutti g, g'( aes) r r a bes( b) |
 	r c cis( d) r ees fis, d' |
 	g, a bes c d d16 c bes8 a |
 	g4 r r2 |
