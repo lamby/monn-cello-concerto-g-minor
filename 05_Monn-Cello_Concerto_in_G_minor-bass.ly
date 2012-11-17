@@ -13,7 +13,7 @@
 	title = "Concerto per Violoncello, Archi e Basso Continuo"
 	tagline = ""
 	composer = \markup \center-column { "Matthias Georg Monn" }
-	instrument = "Basso Continuo"
+	instrument = "Continuo"
 }
 
 \include "parts/04_bass/bass_1.ly"
