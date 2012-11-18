@@ -6,7 +6,7 @@ violinIb =  \relative {
 	\globalb
 
 	#1
-	R1 |
+	r1 |
 
 	\bar ".|."
 }
