@@ -55,7 +55,14 @@ violinIb =  \relative {
 	r2. r8 g16( aes) g( aes) g4 r8 |
 	bes'1.~ |
 	bes2. bes,4. r4 r8 |
-
+	r2 ees,8 f4 f8 ees4 bes8 f'4 r8 |
+	r2. r4 r8 r4 \tutti bes'8 |
+	g( bes aes) f( aes g) ees( g f) r4 f,8 |
+	g( bes aes) f( aes g) ees( g f) r4 bes8 |
+	bes8. c16 bes8 bes8. c16 d8 ees4. f~ f16 g32 aes |
+	g8. d16 ees8 bes,8. ees'16 d8 ees, bes'16( c) bes( c) bes8 aes16( g) aes( f) |
+	g8 g'16( aes) g( aes) g8 f16( ees) f( d) ees8 c,16 bes aes g aes8 f'16. aes32 d,16. f32 |
+	bes,8 bes'16( aes) g( f) g aes f4 ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
 
 	\bar ".|."
 }
