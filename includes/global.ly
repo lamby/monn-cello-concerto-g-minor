@@ -7,16 +7,16 @@ tutti = \mark \markup { \small TUTTI }
 
 globala = {
 	\set Score.skipBars = ##t
-#(set-accidental-style 'modern)
+	#(set-accidental-style 'modern)
 	\override MultiMeasureRest #'expand-limit = 1
-	 \override Score.RehearsalMark #'padding = #3
+	\override Score.RehearsalMark #'padding = #3
 	\override Score.RehearsalMark #'self-alignment-X = #left
-	 \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
+	\override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
 	\mark \markup {\override #'(baseline-skip . 3) \column { "Allegro" \small TUTTI }}
 }
 
 globalb = {
-	 \set Score.skipBars = ##t
+	\set Score.skipBars = ##t
 	#(set-accidental-style 'modern)
 	\override MultiMeasureRest #'expand-limit = 1
 	\override Score.RehearsalMark #'padding = #4  \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
@@ -28,7 +28,7 @@ globalc = {
 	\set Score.skipBars = ##t
 	#(set-accidental-style 'modern)
 	\override MultiMeasureRest #'expand-limit = 1 \override Score.RehearsalMark #'self-alignment-X = #left
-	 \override Score.RehearsalMark #'padding = #3  \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
+	\override Score.RehearsalMark #'padding = #3  \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
 	\mark \markup {\override #'(baseline-skip . 3) \column { "Allegro non tanto" \small TUTTI }}
 	\time 3/4
 }
