@@ -45,12 +45,6 @@ solocelloc = \relative {
 	R2. |
 	R2. |
 	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-
-	#40
 	g16 (fis g8) r16 d e fis g a bes g |
 	a16 (g a8) r16 d, fis g a bes c a |
 	bes8 d a d g, d' |
