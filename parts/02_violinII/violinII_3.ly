@@ -6,7 +6,7 @@ violinIIc = \relative {
 	\globalc
 
 	#1
-	R1 |
+	R2. |
 
 	\bar ".|."
 }
