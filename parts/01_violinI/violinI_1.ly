@@ -29,12 +29,12 @@ violinIa = \relative c'' {
 	d8 g a,4\trill g r |
 
 	# 20
-	\solo r1 |
+	\solo R1 |
 	g8 bes16. d32 g4~ g16 bes a g a8 fis |
 	g d ees ees'~ ees d r d~ |
 	d c r c~ c bes fis g~ |
 	g fis g a d,4 r |
-	r1 |
+	R1 |
 	r8 g16( aes) g4 r2 |
 	r8 f16( g) f4 r2 |
 	r8 g'16( aes) g4 r8 f bes4 |
@@ -44,9 +44,9 @@ violinIa = \relative c'' {
 	f1~ | 
 	f2. r8 bes, |
 	a4 r r2 |
-	r1 |
-	r1 |
-	r1 |
+	R1 |
+	R1 |
+	R1 |
 	\tutti bes8 d16. f32 bes4~ bes16 d c bes c8 a |
 	bes f16 g aes4~ aes16 g f ees d c b g' |
 	ees d c8 r4 r16 g f es f8 d |
@@ -57,8 +57,8 @@ violinIa = \relative c'' {
 	f'8 f8. f32( g aes g f16) ees32( d c16) g'16. c,32 d8.\trill c16 |
 	c8 g16( aes) g8 g16( aes) g8 c d,4\trill |
 	\solo c r r2 |
-	r1 | 
-	r1 | 
+	R1 | 
+	R1 | 
 	r2 r4 g'' |
 	r aes r f |
 	r g r ees |
@@ -70,8 +70,8 @@ violinIa = \relative c'' {
 	r ees r f |
 	r g f8 d4 c16( bes) |
 	aes'8 f4 ees16( d) g8 r r4 |
-	r1 |
-	r1 |
+	R1 |
+	R1 |
 	\tutti r16 bes,( c bes) c( d) ees( bes) bes8( aes) g4 |
 	r16 bes,( c bes) c( d) ees( bes) bes8( aes)\trill g4 |
 	\times 2/3 { c16 d ees f g aes } d,8 bes' \times 2/3 { ees,16 f g a bes c } f,8 d' |
@@ -94,7 +94,7 @@ violinIa = \relative c'' {
 	a, a a a d d d d |
 	g, g g g e' e e e |
 	f4 r r2 |
-	r1 |
+	R1 |
 	r2 r8 d f a |
 	d4 r r8 d, f a |
 	d4 r \tutti d,8 f16. a32 d4~ |
@@ -105,7 +105,7 @@ violinIa = \relative c'' {
 	r a bes r |
 	r g a r |
 	r fis g r |
-	r1 |
+	R1 |
 	r2 \tutti g,8 bes16. d32 g4~ |
 	g16 bes a g a8 fis g16 fis g a bes4~ |
 	bes16 d c bes c8 a bes16 a g8 r16 bes c bes |
@@ -120,7 +120,7 @@ violinIa = \relative c'' {
 	r bes bes bes r fis' fis fis |
 	r g g g r bes, bes bes |
 	r a a a bes4 r |
-	r1 |
+	R1 |
 
 	r8 g, bes d g4 r |
 	r8 g, bes d g4 r |
