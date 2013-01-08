@@ -29,6 +29,6 @@ globalc = {
 	#(set-accidental-style 'modern)
 	\override MultiMeasureRest #'expand-limit = 1 \override Score.RehearsalMark #'self-alignment-X = #left
 	 \override Score.RehearsalMark #'padding = #3  \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
-	\mark \markup {\override #'(baseline-skip . 3) \column { Rondo \fontsize #-1 "Allegro non tanto" \small TUTTI }}
+	\mark \markup {\override #'(baseline-skip . 3) \column { "Allegro non tanto" \small TUTTI }}
 	\time 3/4
 }
