@@ -30,7 +30,6 @@ violab = \relative {
 	R1*12/8 |
 	R1*12/8 |
 	R1*12/8 |
-	R1*12/8 |
 	\tutti d'4 d8 bes4 bes8 bes4 bes8 bes'4 bes8 |
 	c4 bes8 bes4 d,8 c4. r4 a8 |
 	bes8. d16 f8 a,8. c16 f8 g,4. f |
