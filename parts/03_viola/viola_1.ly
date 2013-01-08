@@ -7,7 +7,7 @@ violaa = \relative {
 	\globala
 
 	# 1
-	\tutti bes4 r8 d g, d' c bes |
+	bes4 r8 d g, d' c bes |
 	bes4 r8 bes16 c d8 g ees d |
 	d4 r8 g a4 r8 d, |
 	g4 r8 c, d d d d |
