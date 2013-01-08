@@ -2,8 +2,9 @@
 
 violaa = \relative {
 	\key g \minor
-
 	\clef alto
+
+	\globala
 
 	# 1
 	\tutti bes4 r8 d g, d' c bes |
