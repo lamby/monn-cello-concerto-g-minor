@@ -9,11 +9,10 @@
 	head-separation = 1 \cm
 	line-width = 16 \cm
 	horizontal-shift = 0.5 \cm
+	top-margin = 2 \cm
 	bottom-margin = 2 \cm
 	obsolete-between-system-padding=#2  system-system-spacing
 	#'padding = #(/ obsolete-between-system-padding staff-space)  score-system-spacing #'padding = #(/ obsolete-between-system-padding staff-space)
-	ragged-bottom=##t
-	ragged-last-bottom=##f
 }
 
 \include "parts/00_solo_cello/solo_cello_1.ly"
