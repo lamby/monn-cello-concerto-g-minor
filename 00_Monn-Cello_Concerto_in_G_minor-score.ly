@@ -2,6 +2,8 @@
 
 #(set-global-staff-size 16)
 
+\include "includes/global.ly"
+
 \paper {
 	#(set-paper-size "a4")
 	head-separation = 1 \cm
@@ -13,8 +15,6 @@
 	ragged-bottom=##t
 	ragged-last-bottom=##f
 }
-
-\include "includes/global.ly"
 
 \include "parts/00_solo_cello/solo_cello_1.ly"
 \include "parts/00_solo_cello/solo_cello_2.ly"
