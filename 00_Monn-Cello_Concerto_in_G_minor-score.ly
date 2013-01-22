@@ -66,6 +66,7 @@
 		\relative << <<
 			\new StaffGroup <<
 				\new Staff << {
+					\set Staff.instrumentName = #"Solo Violoncello"
 					\set Staff.shortInstrumentName = #"Solo Vlc."
 					\solocelloa
 				} >>
@@ -74,22 +75,26 @@
 			\new StaffGroup <<
 				\new GrandStaff <<
 					\new Staff << {
+						\set Staff.instrumentName = #"Violin I"
 						\set Staff.shortInstrumentName = #"Vno. I"
 						\violinIa
 					} >>
 					\new Staff << {
+						\set Staff.instrumentName = #"Violin II"
 						\set Staff.shortInstrumentName = #"Vno. II"
 						\violinIIa
 					} >>
 				>>
 
 				\new Staff << {
+					\set Staff.instrumentName = #"Viola"
 					\set Staff.shortInstrumentName = #"Vla."
 					\violaa
 				} >>
 
 				\new Staff << {
-					\set Staff.shortInstrumentName = #"Vc. e Cb."
+					\set Staff.instrumentName = #"Basso continuo"
+					\set Staff.shortInstrumentName = #"Basso"
 					\bassa
 				} >>
 			>>
@@ -123,7 +128,7 @@
 				} >>
 
 				\new Staff << {
-					\set Staff.shortInstrumentName = #"Vc. e Cb."
+					\set Staff.shortInstrumentName = #"Basso"
 					\bassb
 				} >>
 
@@ -157,7 +162,7 @@
 				} >>
 
 				\new Staff << {
-					\set Staff.shortInstrumentName = #"Vc. e Cb."
+					\set Staff.shortInstrumentName = #"Basso"
 					\bassc
 				} >>
 			>>
