@@ -6,7 +6,7 @@ violac = \relative {
 
 	\globalc
 
-	bes4 d bes |
+	bes4_\forte d bes |
 	c a fis' |
 	g d ees |
 	a, r8 fis' g a |
@@ -69,7 +69,7 @@ violac = \relative {
 	R2. |
 	R2. |
 	R2. |
-	\tutti d4 f d~ |
+	\tutti d4_\forte f d~ |
 	d cis a |
 	d d d |
 	g, e' cis |
@@ -90,7 +90,7 @@ violac = \relative {
 	R2. |
 	R2. |
 	R2. |
-	fis'4 g a |
+	fis'4_\piano g a |
 	d, r r |
 	e f g |
 	c, r r |
@@ -104,7 +104,7 @@ violac = \relative {
 	R2. |
 	R2. |
 	R2. |
-	\tutti d'4 f d |
+	\tutti d'4_\forte f d |
 	ees c a' |
 	bes f g |
 	c, a' f~ |
@@ -121,11 +121,11 @@ violac = \relative {
 	R2. |
 	R2. |
 	R2. |
-	\tutti ees4 g ees |
+	\tutti ees4_\forte g ees |
 	f d b' |
 	c g aes |
 	d, r r |
-	\solo c r r |
+	\solo c_\piano r r |
 	c r r |
 	bes r r |
 	bes r r |
@@ -140,7 +140,7 @@ violac = \relative {
 	R2. |
 	R2. |
 	R2. |
-	\tutti g'4 bes g~ |
+	\tutti g'4_\forte bes g~ |
 	g fis d |
 	g g, d' |
 	c a' fis |
@@ -176,7 +176,7 @@ violac = \relative {
 	R2. |
 	R2. |
 	\tutti R2. |
-	c4 d ees |
+	c4_\forte d ees |
 	f r r |
 	bes, c d |
 	ees r r |
@@ -186,9 +186,9 @@ violac = \relative {
 	g8 g' d4 d |
 	d r g, |
 	g d' d |
-	d8 g ees g cis, g' |
+	d8 g_\forte ees g cis, g' |
 	d4 r r |
-	d8 g ees g cis, g' |
+	r8 g_\forte ees g cis, g' |
 	d4 r r8 d |
 	g ees c4 d |
 	g,4 r r |

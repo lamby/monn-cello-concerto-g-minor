@@ -7,30 +7,30 @@ bassa = \relative {
 	\globala
 
 	#1
-	g8 g g f ees bes c d |
+	g8_\forte g g f ees bes c d |
 	g4 r8 g,16 a bes8 ees c d |
 	g, bes16. d32 g4 f,8 a16. d32 f4 |
 	ees,8 g16. c32 ees4 d8 d d g, |
 	d' d16 es d8 c bes4 r |
-	r2 bes'8 bes bes bes |
-	f a bes bes, ees c f d |
+	r2 bes'8_\piano bes bes bes |
+	f a bes bes, ees_\forte c f d |
 	g ees a f bes bes, bes' bes, |
 	r ees f f, bes' bes, bes' bes, |
 
 	# 10
 	r es f f, bes d16. f32 bes4 |
-	r8 g( aes) r r a bes( b) |
-	r c cis( d) r ees fis, d' |
+	r8 g(_\piano aes) r r a bes( b) |
+	r c cis( d) r ees fis,_\forte d' |
 	g, a bes c d d16 c bes8 a |
 	g4 r r2 |
-	g8 g g g d fis g g, |
-	c a' fis d c a' fis d |
-	g bes, c d g4 r |
-	r8 ees c d g g, bes d |
+	g8_\piano g g g d fis g g, |
+	c_\forte a' fis d c a' fis d |
+	g bes, c d g4_\piano r |
+	r8 ees c d g g,_\forte bes d |
 	g ees c d g,4 r |
 
 	# 20
-	\solo g'8 g g f ees bes c d |
+	\solo g'8_\piano g g f ees bes c d |
 	g4 r8 g,16 a bes8 ees c d |
 	g, bes16. d32 g8 g fis fis f f |
 	e e ees ees d d d g, |
@@ -48,7 +48,7 @@ bassa = \relative {
 	bes r c r d r ees r |
 	r f16 g a8 f bes d, ees f |
 	bes bes, d f bes g ees f |
-	\solo bes, bes bes c d g ees f |
+	\tutti bes,_\forte bes bes c d g ees f |
 	bes bes, r d'16 c b8 d f, g |
 	c c, r c16 d ees8 aes f g |
 	c, ees16. g32 c4 bes,8 d16. g32 bes4 |
@@ -57,7 +57,7 @@ bassa = \relative {
 	aes,8 c16. f32 aes4 g8 g g c, |
 	g g'16 a b8 g c ees, f g |
 	c,4 r r8 aes f g |
-	\solo c,4 r8 c'16 d ees8 aes f g |
+	\solo c,4_\piano r8 c'16 d ees8 aes f g |
 	c,4 r8 c'~ c b r g |
 	c c, r c f g aes f |
 	g8. aes16 g8 f e4 c |
@@ -74,16 +74,16 @@ bassa = \relative {
 	bes4 bes, ees8 d ees f |
 	g aes bes bes, ees bes ees,4 |
 	\tutti r1 |
-	ees'8 ees ees ees bes d ees ees, |
+	ees'8_\forte ees ees ees bes d ees ees, |
 	aes' f bes g c aes d bes |
 
 	# 60
 	ees ees, ees' ees, r aes bes bes, | 
 	ees' ees, ees' ees, r aes bes bes, |
-	\solo ees4 r r r8 ees( |
-	d ees) r ees( d ees) r4 |
-	r2 r4 r8 c( |
-	d ees) r c( bes ees) r4 |
+	\solo ees4 r r r8 ees(_\mezzoforte |
+	d ees) r ees(_\forte d ees) r4 |
+	r2 r4 r8 c(_\mezzoforte |
+	d ees) r c(_\piano bes ees) r4 |
 	r1 |
 	r8 ees f g aes aes, g g' |
 	aes g f ees bes4 r |
@@ -102,22 +102,22 @@ bassa = \relative {
 	r8 bes' g a d,4 r |
 
 	# 80
-	r8 bes g a \tutti d d' d c |
+	r8 bes g a \tutti d_\forte d' d c |
 	bes f g a d, d, r d'16 e |
-	f8 bes g \solo a d,4 r |
+	f8 bes g \solo a d,4_\piano r |
 	g, r c r |
 	f r bes r |
 	ees, r a r |
 	d, r g, fis |
 	g a bes c |
-	d8. ees16 d c bes a \tutti g8 g' g f |
+	d8. ees16 d c bes a \tutti g8_\forte g' g f |
 	ees bes c d g4 r8 g,16 a |
 
 	# 90
 	bes8 ees c d g, bes16. d32 g4 |
 	f,8 a16. d32 f4 ees,8 g16. c32 ees4 |
 	d8 d d g, d'4 d, |
-	\tutti g b c r |
+	\solo g_\piano b c r |
 	f a bes r |
 	ees, g a r |
 	d, fis g8 g, r a' |
@@ -130,8 +130,8 @@ bassa = \relative {
 	d c bes c bes ees c d |
 	g,4 r r8 ees' c d |
 	g4 r r8 ees c d |
-	\tutti g, g'( aes) r r a bes( b) |
-	r c cis( d) r ees fis, d' |
+	\tutti g, g'(_\piano aes) r r a bes( b) |
+	r c cis( d) r ees fis,_\forte d' |
 	g, a bes c d d16 c bes8 a |
 	g4 r r2 |
 	g8 g g g d fis g g, |
