@@ -11,12 +11,12 @@ violaa = \relative {
 	bes4 r8 bes16 c d8 g ees d |
 	d4 r8 g a4 r8 d, |
 	g4 r8 c, d d d d |
-	d d r4 bes'8 bes bes bes |
-	f a bes bes, bes_\piano bes bes bes |
+	d d r4 bes'8_\piano bes bes bes |
+	f a bes bes, bes bes bes bes |
 	f a bes d ees_\forte c f d |
 	g ees a f bes bes, d f |
-	r g f ees d f d f |
-	r g, f ees d4 r |
+	r g f ees d_\piano f d f |
+	r g,_\forte f ees d4 r |
 	r8 g(_\piano aes) r r a bes( b) |
 	r8 c cis( d) r ees d d_\forte |
 	d c bes ees d4 r |
@@ -25,7 +25,7 @@ violaa = \relative {
 	c8_\forte a' fis d c a' fis d |
 	d d ees d d g, bes d |
 	g g, ees' d d4 r |
-	r8 g, ees' d d4 r |
+	r8 g,_\forte ees' d d4 r |
 	\solo R1 |
 	R1 |
 	R1 |
@@ -68,10 +68,10 @@ violaa = \relative {
 	aes_\forte f'4 g aes bes8~ |
 	bes g4 ees8 r c bes aes |
 	g_\piano ees' g, ees' r c bes aes |
-	\solo g4 r r r8 ees'(_\mezzoforte |
-	d ees) r ees(_\piano d ees) r4 |
-	r2 r4 r8 c(_\mezzoforte |
-	d ees) r c(_\piano d ees) r4 |
+	\solo g4 r r r8 ees'_\mezzoforte |
+	d( ees) r ees_\piano d( ees) r4 |
+	r2 r4 r8 c_\mezzoforte |
+	d( ees) r c_\piano d( ees) r4 |
 	r8 ees f g aes aes, g4 |
 	R1 |
 	R1 |
@@ -118,7 +118,7 @@ violaa = \relative {
 	c8_\forte a' fis d c a' fis d |
 	d d ees d d g, bes d |
 	g g, ees' d d4 r |
-	r8 g, ees' d d4 r |
+	r8 g,_\forte ees' d d4 r |
 
 	\bar ".|."
 }

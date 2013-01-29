@@ -99,9 +99,9 @@ violinIc = \relative {
 	ees r r |
 	r ees bes |
 	c r r |
-	bes,4. c8 d ees |
+	bes,4._\mezzoforte c8 d ees |
 	f ees'4 d c8 |
-	bes,4. c8 d ees |
+	bes,4._\piano c8 d ees |
 	f ees'4 d c8 |
 	bes4 r r |
 	\tutti R2. |
@@ -115,7 +115,7 @@ violinIc = \relative {
 	bes c d |
 	c8 f,16 a c8 a16 c ees8 c16 ees |
 	d8 bes g bes e, bes' |
-	f a16 c ees8 c16 ees c'8 a16 c |
+	f a16_\piano c ees8 c16 ees c'8 a16_\forte c |
 	bes8 g, ees4 f |
 	\solo bes, r r |
 	R2. |

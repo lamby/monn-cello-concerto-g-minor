@@ -10,21 +10,21 @@ violinIIa = \relative {
 	g'8_\forte bes16. d32 g4~ g16 bes a g a8 fis |
 	g d ees4. cis8 d4 |
 	r8 b c4. bes8 fis g |
-	g\trill( fis) r4 r16 d'( ees d) ees( fis) g( d) |
-	d8( c) bes4 r16 d,16(_\piano ees d) ees( fis) g( d) |
+	g\trill( fis) r4 r16 d'(_\piano ees d) ees( fis) g( d) |
+	d8( c) bes4 r16 d,16( ees d) ees( fis) g( d) |
 	d8( c\trill) bes4 r \times 2/3 { a16_\forte bes c d ees f } |
 	bes8 g' \times 2/3 { c,16 d ees f g a bes a g f ees d g f ees d c bes } |
-	ees8. d32 c bes8 a \times 2/3 { bes16 a g f ees d g f ees d c bes } |
-	ees8. d32 c bes8 a\trill bes4 r |
+	ees8. d32 c bes8 a \times 2/3 { bes16_\piano a g f ees d g f ees d c bes } |
+	ees8._\forte d32 c bes8 a\trill bes4 r |
 	r8 bes(_\piano b) r r c des( d) |
 	r ees e( f) r g a fis_\forte |
 	g g8. d16 c bes bes8( a) r4 |
-	bes'8 bes bes bes bes( a) g4 |
+	bes'8 bes bes bes bes( a)\trill g4 |
 	bes,8_\piano bes bes bes bes( a\trill) g4 |
 	r8 c_\forte c'4 r8 c a'4~ |
 	a8 g4 fis8 g bes,16( c) bes8 bes16( c) |
-	bes8 g4 fis8 g bes,16( c) bes8 bes16( c) |
-	bes8 g'4 fis8 g4 r |
+	bes8 g4 fis8 g bes,16(_\piano c) bes8 bes16( c) |
+	bes8 g'4_\forte fis8 g4 r |
 	\solo R1 |
 	R1 |
 	r2 r8 a,_\piano a' a, |
@@ -67,18 +67,18 @@ violinIIa = \relative {
 	r4 \times 2/3 { d16_\forte ees f g aes bes } ees,8 c' \times 2/3 { f,16 g aes bes c d } |
 	\times 2/3 { ees d c bes aes g c bes aes g f ees } aes8. g32 f ees8 d |
 	\times 2/3 { ees'16_\piano d c bes aes g c bes aes g f ees } c'8. bes32 aes g8 f\trill |
-	\solo ees4 r r r8 ees8(_\mezzoforte |
-	d ees) r ees(_\piano d ees) r4 |
-	r2 r4 r8 ees(_\mezzoforte |
-	f g) r ees(_\piano f g) r4 |
+	\solo ees4 r r r8 ees8_\mezzoforte |
+	d( ees) r ees_\piano d( ees) r4 |
+	r2 r4 r8 ees_\mezzoforte |
+	f( g) r ees_\piano f( g) r4 |
 	r8 ees f g aes( aes,) g4 |
 	r2 r4 r8 g' |
 	aes g f ees bes d16( ees) d8 d |
 	d4 r r8 ees16( f) ees8 ees |
 	e4 r r8 f16( g) f8 f |
-	fis4 r r8 g16( a) g8 g |
-	fis4 r r8 g16( a) g8 g |
-	g4 r bes,8 bes bes bes |
+	fis4_\mezzoforte r r8 g16( a) g8 g |
+	fis4_\piano r r8 g16( a) g8 g |
+	g4_\mezzoforte r bes,8 bes bes bes |
 	a a a a a a a a |
 	g g g g cis cis cis cis |
 	d4 r r2 |
@@ -116,8 +116,8 @@ violinIIa = \relative {
 	bes,8_\piano bes bes bes bes( a\trill) g4 |
 	r8 c_\forte c'4 r8 c a'4~ |
 	a8 g4 fis8 g bes,16( c) bes8 bes16( c) |
-	bes8 g4 fis8 g8 bes,16( c) bes8 bes16( c) |
-	bes8 g'4 fis8 g4 r 
+	bes8 g4 fis8 g8 bes,16(_\piano c) bes8 bes16( c) |
+	bes8 g'4_\forte fis8 g4 r 
 
 	\bar ".|."
 }

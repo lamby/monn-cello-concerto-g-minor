@@ -10,7 +10,7 @@ violinIIc = \relative {
 	R2. |
 	R2. |
 	R2. |
-	d'16\trill( cis d8) r16 a b cis d e f d |
+	d'16\trill(_\forte cis d8) r16 a b cis d e f d |
 	e(\trill d e8) r16 a, cis d e f g e |
 	f8 a e a d, a' |
 	cis, e a, bes a g |
@@ -99,9 +99,9 @@ violinIIc = \relative {
 	c r r |
 	r bes g |
 	f r r |
-	bes,4. c8 d ees |
+	bes,4._\mezzoforte c8 d ees |
 	f4 r r |
-	bes,4. c8 d ees |
+	bes,4._\piano c8 d ees |
 	f4 r r |
 	R2. |
 	\tutti bes16(\trill_\forte a bes8) r16 f g a bes c d bes |
@@ -115,7 +115,7 @@ violinIIc = \relative {
 	f a bes |
 	f8 f a f16 a c8 a16 c |
 	bes8 bes g bes e, bes' |
-	f f16 a c8 a16 c ees8 c16 ees |
+	f f16_\piano a c8 a16 c ees8 c16_\forte ees |
 	d8 g, ees4 f |
 	\solo bes, r r |
 	R2. |

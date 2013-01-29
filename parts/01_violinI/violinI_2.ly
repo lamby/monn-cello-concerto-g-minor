@@ -56,8 +56,8 @@ violinIb =  \relative {
 	bes'1.~_\forte |
 	bes2._\piano bes,4. r4 r8 |
 	r4 ees,8 f4 f8 ees4 bes8 f'4 r8 |
-	r2. r4 r8 r4 \tutti bes'8_\forte |
-	g( bes aes) f( aes g) ees( g f) r4 f,8 |
+	r2. r4 r8 r4 bes'8_\forte |
+	\tutti g( bes aes) f( aes g) ees( g f) r4 f,8 |
 	g( bes aes) f( aes g) ees( g f) r4 bes8 |
 	bes8. c16 bes8 bes8. c16 d8 ees4. f4~ f16 g32 aes |
 	g8. d16 ees8 bes,8. ees'16 d8 ees, bes'16(_\mezzopiano c) bes( c) bes8 aes16( g) aes( f) |

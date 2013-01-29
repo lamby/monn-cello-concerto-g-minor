@@ -57,7 +57,7 @@ violinIIb =  \relative {
 	ees( g f) d( f ees) c( ees d) r4 r8 |
 	r4 ees8 f4 d8 ees4 bes8 f'4 r8 |
 	r2. r4 r8 r4 g'8 |
-	ees( g f) d( f ees) c( ees d) r4 d,8 |
+	\tutti ees( g f) d( f ees) c( ees d) r4 d,8 |
 	ees( g f) d( f ees) c( ees d) r4 f8 |
 	g4. f ees4 aes8 aes8. g16 f8 |
 	ees4 bes'16 c f,4.\trill ees8 g16( aes) g( aes) g8 f16( ees) f( d) |

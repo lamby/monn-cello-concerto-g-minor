@@ -7,7 +7,7 @@ bassc = \relative {
 	\globalc
 
 	#1
-	g4 bes g~ |
+	g4_\forte bes g~ |
 	g fis d |
 	g f ees |
 	d r8 c' bes a |
@@ -33,13 +33,13 @@ bassc = \relative {
 	c d d, |
 	g g, bes |
 	c d d, |
-	g8 g' ees g cis, g' |
+	g8 g'_\forte ees g cis, g' |
 	d4 r r |
-	r8 g ees g cis, g' |
-	d4 r r8 d |
+	r8 g_\forte ees g cis, g' |
+	d4 r r8 d_\forte |
 	g ees c4 d |
 	g,8 bes16 d g4 r |
-	\solo g, bes g |
+	\solo g,_\piano bes g |
 	d' fis d |
 	g f ees |
 	d4. ees8 d c |
@@ -65,14 +65,14 @@ bassc = \relative {
 	a r r |
 	r8 a cis e a cis, |
 	d bes' a4 a, |
-	d8 d' bes d gis, d' |
+	d8 d'_\forte bes d gis, d' |
 	a4 r r |
 	r8 d, bes d gis, d' |
-	a4 r r8 a |
+	a4 r r8 a_\piano |
 	d bes' a4 a, |
 	\tutti d r r |
 	R2. |
-	d4 f d~ |
+	d4_\forte f d~ |
 	d cis a |
 	d c bes |
 	a4. bes'8 a g |
@@ -87,7 +87,7 @@ bassc = \relative {
 	g a a, |
 	d r f |
 	g a a, |
-	\solo d f d |
+	\solo d_\piano f d |
 	a cis a |
 	d c bes |
 	a4. g'8 f e |
@@ -100,12 +100,12 @@ bassc = \relative {
 	f f, r |
 	g' g, r |
 	a' a, r |
-	bes4. c8 d ees |
+	bes4._\mezzoforte c8 d ees |
 	f4 g a |
-	bes,4. c8 d ees |
+	bes,4._\piano c8 d ees |
 	f4 g a |
 	bes f f, |
-	\tutti bes d' bes~ |
+	\tutti bes_\forte d' bes~ |
 	bes a f |
 	bes a g |
 	f r r |
@@ -121,11 +121,11 @@ bassc = \relative {
 	f' a f |
 	bes a g |
 	f4. f8 ees d |
-	\tutti c4 ees' c~ |
+	\tutti c4_\forte ees' c~ |
 	c b g |
 	c bes aes |
 	g4. aes8 g f |
-	\solo e4 r r |
+	\solo e4_\piano r r |
 	f r r |
 	bes, r r |
 	ees r r |
@@ -142,10 +142,10 @@ bassc = \relative {
 	d4. c8 bes a |
 	\tutti g4 r r |
 	R2. |
-	g'4 bes g~ |
+	g'4_\forte bes g~ |
 	g fis d |
 	g f ees |
-	d4. ees8 d c |
+	d4. ees8_\piano d c |
 	\solo b4 b b |
 	b g' b, |
 	c c, r |
@@ -175,7 +175,7 @@ bassc = \relative {
 	r8 g ees g cis, g' |
 	d4 r r8 d |
 	g ees c4 d |
-	\tutti g a bes |
+	\tutti g_\forte a bes |
 	c r r |
 	f, g a |
 	bes r r |
@@ -186,10 +186,11 @@ bassc = \relative {
 	c d d, |
 	g g, bes|
 	c d d, |
-	g8 g' ees g cis, g' |
+	g8 g'_\forte ees g cis, g' |
 	d4 r r |
-	r8 g ees g cis, g' |
-	d4 r r8 d g ees c4 d |
+	r8 g_\forte ees g cis, g' |
+	d4 r r8 d_\forte |
+	g ees c4 d |
 	g, r r |
 
 	\bar ".|."
