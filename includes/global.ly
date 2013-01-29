@@ -44,3 +44,32 @@ globalc = {
 		= #(make-stencil-boxer 0.1 0.25 ly:text-interface::print)
 	\set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
 }
+
+forte = \markup {
+	\center-align \concat {
+		\bold { \italic ( }
+		\dynamic f \bold { \italic ) }
+	}
+}
+
+mezzoforte = \markup {
+	\center-align \concat {
+		\bold { \italic ( }
+		\dynamic mf \bold { \italic ) }
+	}
+}
+
+mezzopiano = \markup {
+	\center-align \concat {
+		\bold { \italic ( }
+		\dynamic mp \bold { \italic ) }
+	}
+}
+
+
+piano = \markup {
+	\center-align \concat {
+		\bold { \italic ( }
+		\dynamic p \bold { \italic ) }
+	}
+}

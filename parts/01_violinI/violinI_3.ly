@@ -6,7 +6,7 @@ violinIc = \relative {
 	\globalc
 
 	#1
-	g''16(\trill fis g8) r16 d e fis g a bes g |
+	g''16(\trill_\forte fis g8) r16 d e fis g a bes g |
 	a16(\trill g a8) r16 d, fis g a bes c a |
 	bes8 d a d g, d' |
 	fis, a d, ees d c |
@@ -32,9 +32,9 @@ violinIc = \relative {
 	g8 ees d c bes a |
 	bes g,16 bes d8 bes16 d g4~ |
 	g8 ees d c bes a |
-	g g' ees g cis, g' |
-	d ees'( d c) c'( a) |
-	bes g, ees g cis, g' |
+	g g'_\forte ees g cis, g' |
+	d ees'(_\piano d c) c'( a) |
+	bes g,_\forte ees g cis, g' |
 	d c'( bes a) a' fis |
 	g ees, c4 d |
 	g,8 bes16 d g4 r |
@@ -48,7 +48,7 @@ violinIc = \relative {
 	R2. |
 	R2. |
 	R2. |
-	f4 f f |
+	f4_\piano f f |
 	g g g |
 	a a a |
 	bes bes cis, |
@@ -71,7 +71,7 @@ violinIc = \relative {
 	R2. |
 	\tutti R2. |
 	R2. |
-	d'16( cis d8) r16 a b cis d e f d |
+	d'16(_\forte cis d8) r16 a b cis d e f d |
 	e(\trill d e8) r16 a, cis d e f g e |
 	f8 a e a d, a' |
 	cis, e a,4 r |
@@ -91,7 +91,7 @@ violinIc = \relative {
 	R2. |
 	R2. |
 	R2. |
-	r4 bes'' bes, |
+	r4 bes''_\piano bes, |
 	g' r r |
 	r a a, |
 	f' r r |
@@ -107,7 +107,7 @@ violinIc = \relative {
 	\tutti R2. |
 	R2. |
 	R2. |
-	f'16(\trill e f8) r16 c d e f g a f |
+	f'16(\trill_\forte e f8) r16 c d e f g a f |
 	g(\trill f g8) r16 c, e f g a bes g |
 	a8 c f, c' ees, c' |
 	d,4 bes' d, |
@@ -121,11 +121,11 @@ violinIc = \relative {
 	R2. |
 	R2. |
 	R2. |
-	\tutti c'16(\trill b c8) r16 g a bes c d ees c |
+	\tutti c'16(\trill_\forte b c8) r16 g a bes c d ees c |
 	d(\trill c d8) r16 g, b c d ees f d |
 	ees8 g d g c, g' |
 	b, d g,4 r |
-	\solo r g' r |
+	\solo r g'_\piano r |
 	r aes r |
 	r f r |
 	r g r |
@@ -140,7 +140,7 @@ violinIc = \relative {
 	d r r |
 	R2. | 
 	R2. | 
-	\tutti g'16(\trill fis g8) r16 d e f g a bes g |
+	\tutti g'16(\trill_\forte fis g8) r16 d e f g a bes g |
 	a16(\trill g a8) r16 d, fis g a bes c a |
 	bes(\trill a bes8) r16 fis, g a bes c d bes |
 	c(\trill bes c8) r16 d, a' bes c d ees c |
@@ -152,7 +152,7 @@ violinIc = \relative {
 	R2. |
 	R2. |
 	R2. |
-	bes'4 bes a |
+	bes'4_\piano bes a |
 	g g f |
 	ees ees' d |
 	c bes a |
@@ -175,7 +175,7 @@ violinIc = \relative {
 	r8 g ees g cis, g' |
 	d4 r r |
 	R2. |
-	\tutti bes''16(\trill a bes8) bes16(\trill a bes8) bes16(\trill a bes8) |
+	\tutti bes''16(\trill_\forte a bes8) bes16(\trill a bes8) bes16(\trill a bes8) |
 	bes ees,16( bes') c8( bes) bes( a) |
 	a16(\trill g a8) a16(\trill g a8) a16(\trill g a8) |
 	a d,16( a') bes8( a) a( g) |
@@ -186,10 +186,10 @@ violinIc = \relative {
 	g8 ees d c bes a |
 	ees g,16 bes d8 bes16 d g4~ |
 	g8 ees d c bes a |
-	g g' ees g cis, g' |
-	d ees'( d c) c'( a) |
-	bes g, ees g cis, g' |
-	d c'( bes a) a' fis |
+	g g'_\forte ees g cis, g' |
+	d ees'(_\piano d c) c'( a) |
+	bes g,_\forte ees g cis, g' |
+	d c'( bes a) a' fis_\forte |
 	g ees, c4 d |
 	g,4 r r |
 
