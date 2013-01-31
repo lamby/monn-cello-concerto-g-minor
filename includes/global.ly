@@ -66,7 +66,6 @@ mezzopiano = \markup {
 	}
 }
 
-
 piano = \markup {
 	\center-align \concat {
 		\bold { \italic ( }
