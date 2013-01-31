@@ -7,6 +7,9 @@ tutti = \mark \markup { \small TUTTI }
 
 globala = {
 	\set Score.skipBars = ##t
+	\crescTextCresc
+	\override TupletNumber #'stencil = ##f
+	\override TupletBracket #'bracket-visibility = ##f
 	#(set-accidental-style 'modern)
 	\override MultiMeasureRest #'expand-limit = 1
 	\override Score.RehearsalMark #'padding = #3
@@ -21,6 +24,9 @@ globala = {
 
 globalb = {
 	\set Score.skipBars = ##t
+	\crescTextCresc
+	\override TupletNumber #'stencil = ##f
+	\override TupletBracket #'bracket-visibility = ##f
 	#(set-accidental-style 'modern)
 	\override MultiMeasureRest #'expand-limit = 1
 	\override Score.RehearsalMark #'padding = #4  \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
@@ -34,6 +40,9 @@ globalb = {
 
 globalc = {
 	\set Score.skipBars = ##t
+	\crescTextCresc
+	\override TupletNumber #'stencil = ##f
+	\override TupletBracket #'bracket-visibility = ##f
 	#(set-accidental-style 'modern)
 	\override MultiMeasureRest #'expand-limit = 1 \override Score.RehearsalMark #'self-alignment-X = #left
 	\override Score.RehearsalMark #'padding = #3  \override Score.RehearsalMark #'break-align-symbols = #'(time-signature)
@@ -70,5 +79,12 @@ piano = \markup {
 	\center-align \concat {
 		\bold { \italic ( }
 		\dynamic p \bold { \italic ) }
+	}
+}
+
+pianissimo = \markup {
+	\center-align \concat {
+		\bold { \italic ( }
+		\dynamic pp \bold { \italic ) }
 	}
 }
