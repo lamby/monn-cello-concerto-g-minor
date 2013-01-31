@@ -32,10 +32,10 @@ violinIc = \relative {
 	g8 ees d c bes a |
 	bes g,16 bes d8 bes16 d g4~ |
 	g8 ees d c bes a |
-	g g'_\forte ees g cis, g' |
-	d ees'(_\piano d c) c'( a) |
-	bes g,_\forte ees g cis, g' |
-	d c'( bes a) a' fis |
+	g g'_\forte-| ees-| g-| cis,-| g'-| |
+	d-| ees'(_\piano d c) c'( a) |
+	bes g,_\forte-| ees-| g-| cis,-| g'-| |
+	d-| c'(_\piano bes a) a' fis_\forte |
 	g ees, c4 d |
 	g,8 bes16 d g4 r |
 	\solo R2. |
@@ -64,10 +64,10 @@ violinIc = \relative {
 	cis, a' r |
 	r8 a, cis e a cis, |
 	d4 r r |
-	r8 d' bes d gis, d' |
-	a4 r r |
-	r8 d, bes d gis, d' |
-	a4 r r |
+	r8 d'_\forte-| bes-| d-| gis,-| d'-| |
+	a4-| r r |
+	r8 d,_\forte-| bes-| d-| gis,-| d'-| |
+	a4-| r r |
 	R2. |
 	\tutti R2. |
 	R2. |
@@ -114,8 +114,8 @@ violinIc = \relative {
 	ees bes' a, |
 	bes c d |
 	c8 f,16 a c8 a16 c ees8 c16 ees |
-	d8 bes g bes e, bes' |
-	f a16_\piano c ees8 c16 ees c'8 a16_\forte c |
+	d8 bes-| g-| bes-| e,-| bes'-| |
+	f-| a16_\piano c ees8 c16 ees c'8 a16_\forte c |
 	bes8 g, ees4 f |
 	\solo bes, r r |
 	R2. |
@@ -125,15 +125,15 @@ violinIc = \relative {
 	d(\trill c d8) r16 g, b c d ees f d |
 	ees8 g d g c, g' |
 	b, d g,4 r |
-	\solo r g'_\piano r |
-	r aes r |
-	r f r |
-	r g r |
-	r ees r |
-	r f r |
-	r d r |
-	r ees r |
-	r a, r |
+	\solo r g'_\piano-| r |
+	r aes-| r |
+	r f-| r |
+	r g-| r |
+	r ees-| r |
+	r f-| r |
+	r d-| r |
+	r ees-| r |
+	r a,-| r |
 	bes d r |
 	r d, fis |
 	g f ees |
@@ -170,10 +170,10 @@ violinIc = \relative {
 	c'4 r r |
 	r8 d, a' c a fis |
 	g4 r r |
-	r8 g ees g cis, g' |
-	d4 r r |
-	r8 g ees g cis, g' |
-	d4 r r |
+	r8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r |
+	r8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r |
 	R2. |
 	\tutti bes''16(\trill_\forte a bes8) bes16(\trill a bes8) bes16(\trill a bes8) |
 	bes ees,16( bes') c8( bes) bes( a) |
@@ -186,10 +186,10 @@ violinIc = \relative {
 	g8 ees d c bes a |
 	ees g,16 bes d8 bes16 d g4~ |
 	g8 ees d c bes a |
-	g g'_\forte ees g cis, g' |
-	d ees'(_\piano d c) c'( a) |
-	bes g,_\forte ees g cis, g' |
-	d c'( bes a) a' fis_\forte |
+	g g'_\forte-| ees-| g-| cis,-| g'-| |
+	d-| ees'(_\piano d c) c'( a) |
+	bes g,_\forte-| ees-| g-| cis,-| g'-| |
+	d-| c'(_\piano bes a) a' fis_\forte |
 	g ees, c4 d |
 	g,4 r r |
 
