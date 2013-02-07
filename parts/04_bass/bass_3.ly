@@ -33,10 +33,10 @@ bassc = \relative {
 	c d d, |
 	g g, bes |
 	c d d, |
-	g8 g'_\forte ees g cis, g' |
-	d4 r r |
-	r8 g_\forte ees g cis, g' |
-	d4 r r8 d_\forte |
+	g8 g'_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r |
+	r8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r8 d_\forte |
 	g ees c4 d |
 	g,8 bes16 d g4 r |
 	\solo g,_\piano bes g |
@@ -65,10 +65,10 @@ bassc = \relative {
 	a r r |
 	r8 a cis e a cis, |
 	d bes' a4 a, |
-	d8 d'_\forte bes d gis, d' |
-	a4 r r |
-	r8 d, bes d gis, d' |
-	a4 r r8 a_\piano |
+	d8 d'_\forte-| bes-| d-| gis,-| d'-| |
+	a4-| r r |
+	r8 d,-| bes-| d-| gis,-| d'-| |
+	a4-| r r8 a_\piano |
 	d bes' a4 a, |
 	\tutti d r r |
 	R2. |
@@ -115,24 +115,25 @@ bassc = \relative {
 	c(\trill bes c8) r16 f, a bes c d ees c |
 	d8 f, c' f, bes f |
 	a c f,4 r |
-	r8 bes g bes e, bes' |
-	f4 r r8 f bes g ees4 f |
-	\solo bes, d bes |
+	r8 bes-| g-| bes-| e,-| bes'-| |
+	f4-| r r8 f_\piano |
+	bes g ees4 f |
+	\solo bes,_\piano d bes |
 	f' a f |
 	bes a g |
 	f4. f8 ees d |
 	\tutti c4_\forte ees' c~ |
 	c b g |
 	c bes aes |
-	g4. aes8 g f |
-	\solo e4_\piano r r |
-	f r r |
-	bes, r r |
-	ees r r |
-	aes, r r |
-	d r r |
-	g, r r |
-	c r r |
+	g4. aes8_\piano g f |
+	\solo e4-| r r |
+	f-| r r |
+	bes,-| r r |
+	ees-| r r |
+	aes,-| r r |
+	d-| r r |
+	g,-| r r |
+	c-| r r |
 	d r r |
 	g f ees |
 	d r r |
@@ -170,10 +171,10 @@ bassc = \relative {
 	d,4 r r |
 	r8 d' a' c a fis |
 	g4 c, d |
-	g,8 g' ees g cis, g' |
-	d4 r r |
-	r8 g ees g cis, g' |
-	d4 r r8 d |
+	g,8 g'-|_\forte ees-| g-| cis,-| g'-| |
+	d4-| r r |
+	r8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r8 d |
 	g ees c4 d |
 	\tutti g_\forte a bes |
 	c r r |
@@ -186,10 +187,10 @@ bassc = \relative {
 	c d d, |
 	g g, bes|
 	c d d, |
-	g8 g'_\forte ees g cis, g' |
-	d4 r r |
-	r8 g_\forte ees g cis, g' |
-	d4 r r8 d_\forte |
+	g8 g'_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r |
+	r8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r8 d_\forte |
 	g ees c4 d |
 	g, r r |
 

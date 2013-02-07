@@ -32,10 +32,10 @@ violac = \relative {
 	g8 g' d4 d |
 	d r g, |
 	g d' d |
-	d8 g ees g cis, g' |
-	d4 r r |
-	d8 g ees g cis, g' |
-	d4 r r8 d |
+	d8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r |
+	d8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r8 d_\forte |
 	g ees c4 d |
 	g,8 bes16 d g4 r |
 	\solo R2. |
@@ -114,8 +114,8 @@ violac = \relative {
 	c16(\trill bes c8) r16 f, a bes c d ees c |
 	d8 f, c' f, bes f |
 	a c f,4 r |
-	r8 bes g bes e, bes' |
-	f4 r r8 f |
+	r8 bes-| g-| bes-| e,-| bes'-| |
+	f4-| r r8 f_\forte |
 	bes g ees4 f |
 	\solo bes, r r |
 	R2. |
@@ -125,14 +125,14 @@ violac = \relative {
 	f d b' |
 	c g aes |
 	d, r r |
-	\solo c_\piano r r |
-	c r r |
-	bes r r |
-	bes r r |
-	aes r r |
-	aes r r |
-	g r r |
-	g r r |
+	\solo c_\piano-| r r |
+	c-| r r |
+	bes-| r r |
+	bes-| r r |
+	aes-| r r |
+	aes-| r r |
+	g-| r r |
+	g-| r r |
 	d' r r |
 	d r ees |
 	a, r r |
@@ -186,10 +186,10 @@ violac = \relative {
 	g8 g' d4 d |
 	d r g, |
 	g d' d |
-	d8 g_\forte ees g cis, g' |
-	d4 r r |
-	r8 g_\forte ees g cis, g' |
-	d4 r r8 d |
+	d8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r |
+	r8 g_\forte-| ees-| g-| cis,-| g'-| |
+	d4-| r r8 d_\forte |
 	g ees c4 d |
 	g,4 r r |
 

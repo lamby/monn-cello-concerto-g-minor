@@ -17,15 +17,15 @@ violaa = \relative {
 	g ees a f bes bes, d f |
 	r g f ees d_\piano f d f |
 	r g,_\forte f ees d4 r |
-	r8 g(_\piano aes) r r a bes( b) |
-	r8 c cis( d) r ees d d_\forte |
+	r8 g(_\piano aes_\<-|) r r a bes( b-|) |
+	r8 c cis( d-|\!) r ees_\forte d d |
 	d c bes ees d4 r |
 	g8 g g g d fis g g, |
 	R1 |
 	c8_\forte a' fis d c a' fis d |
 	d d ees d d g, bes d |
 	g g, ees' d d4 r |
-	r8 g,_\forte ees' d d4 r |
+	r8 g,_\forte-| ees'-| d-| d4 r |
 	\solo R1 |
 	R1 |
 	R1 |
@@ -45,20 +45,20 @@ violaa = \relative {
 	\tutti f8_\forte f f ees d bes' g f |
 	f4 r8 b,16 c d8 f aes g |
 	g4 r8 ees16 f g8 c, aes' g |
-	g4 r8 c, bes4 r8 g |
-	aes4 r8 f g g g g |
+	g4 r8 c,_\piano bes4 r8 g |
+	aes4 r8 f_\forte g g g g |
 	g b16 c d8 b c c aes' g |
-	g c, ees g c ees, aes, g |
+	g c,_\piano ees g c ees,_\forte-| aes,-| g-| |
 	\solo g4 r r2 |
 	R1 |
 	R1 |
-	r2 c4_\piano r |
-	c r bes r |
-	bes r aes r |
-	aes r g r |
-	g r f r |
-	f r r f' |
-	r g r f |
+	r2 c4_\piano-| r |
+	c-| r bes-| r |
+	bes-| r aes-| r |
+	aes-| r g-| r |
+	g-| r f-| r |
+	f-| r r f'-| |
+	r g-| r f-| |
 	r bes, bes8 bes bes bes |
 	bes bes bes bes bes r r4 |
 	R1 |
@@ -67,8 +67,8 @@ violaa = \relative {
 	ees_\piano ees ees ees bes' bes bes bes |
 	aes_\forte f'4 g aes bes8~ |
 	bes g4 ees8 r c bes aes |
-	g_\piano ees' g, ees' r c bes aes |
-	\solo g4 r r r8 ees'_\mezzoforte |
+	g_\piano ees' g, ees' r c_\forte bes aes |
+	\solo g4 r r r8 ees'_\forte |
 	d( ees) r ees_\piano d( ees) r4 |
 	r2 r4 r8 c_\mezzoforte |
 	d( ees) r c_\piano d( ees) r4 |
@@ -110,15 +110,15 @@ violaa = \relative {
 	R1 |
 	R1 |
 	R1 |
-	\tutti r8 g,(_\piano aes) r r a bes( b) |
-	r8 c cis( d) r ees d d |
-	d_\forte c bes ees d4 r |
+	\tutti r8 g,(_\piano aes-|\<) r r a bes( b-|) |
+	r8 c cis( d-|\!) r ees_\forte d d |
+	d c bes ees d4 r |
 	g8 g g g d fis g g, |
 	R1 |
 	c8_\forte a' fis d c a' fis d |
 	d d ees d d g, bes d |
 	g g, ees' d d4 r |
-	r8 g,_\forte ees' d d4 r |
+	r8 g,_\forte-| ees'-| d-| d4 r |
 
 	\bar ".|."
 }

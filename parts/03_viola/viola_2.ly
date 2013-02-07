@@ -41,7 +41,7 @@ violab = \relative {
 	R1*12/8 |
 	R1*12/8 |
 	R1*12/8 |
-	r2. r4 g8 g,4 r8 |
+	r2. r4 g8_\forte g,4 r8 |
 	r2. r4 g'8_\piano g,4 r8 |
 	R1*12/8 |
 	R1*12/8 |
@@ -61,7 +61,7 @@ violab = \relative {
 	\tutti r2. r4 bes'8_\forte bes,4 r8 |
 	r2. r4 bes'8_\piano bes,4 d8_\forte |
 	ees8. g16 bes8 d,8. f16 bes8 c,4. bes |
-	bes4 bes8 bes4 aes8 g4 r8 r bes bes |
+	bes4 bes8 bes4 aes8 g4 r8 r bes_\piano bes |
 	bes4 r8 r bes_\piano bes bes c16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
 	bes,8 bes'16 aes g f g8 ees( d) ees16. bes32 ees16. bes32 g16. bes32 <g ees'>4 r8 |
 
