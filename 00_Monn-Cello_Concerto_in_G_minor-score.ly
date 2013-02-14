@@ -54,14 +54,6 @@
 	\score {
 		\relative << <<
 			\new StaffGroup <<
-				\new Staff << {
-					\set Staff.instrumentName = #"Solo Violoncello"
-					\set Staff.shortInstrumentName = #"Solo Vlc."
-					\solocelloa
-				} >>
-			>>
-
-			\new StaffGroup <<
 				\new GrandStaff <<
 					\new Staff << {
 						\set Staff.instrumentName = #"Violin I"
@@ -93,13 +85,6 @@
 	\score {
 		\relative << <<
 			\new StaffGroup <<
-				\new Staff << {
-					\set Staff.shortInstrumentName = #"Solo Vlc."
-					\solocellob
-				} >>
-			>>
-
-			\new StaffGroup <<
 				\new GrandStaff <<
 					\new Staff << {
 						\set Staff.shortInstrumentName = #"Vno. I"
@@ -127,12 +112,6 @@
 
 	\score {
 		\relative << <<
-			\new StaffGroup <<
-				\new Staff << {
-					\set Staff.shortInstrumentName = #"Solo Vlc."
-					\solocelloc
-				} >>
-			>>
 			\new StaffGroup <<
 				\new GrandStaff <<
 					\new Staff << {
