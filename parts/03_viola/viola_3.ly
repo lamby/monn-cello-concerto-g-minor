@@ -34,7 +34,7 @@ violac = \relative {
 	g d' d |
 	d8 g_\forte-| ees-| g-| cis,-| g'-| |
 	d4-| r r |
-	d8 g_\forte-| ees-| g-| cis,-| g'-| |
+	r8 g_\forte-| ees-| g-| cis,-| g'-| |
 	d4-| r r8 d_\forte |
 	g ees c4 d |
 	g,8 bes16 d g4 r |

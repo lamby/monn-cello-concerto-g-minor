@@ -26,7 +26,7 @@ violinIIc = \relative {
 	ees a,16( ees') f8( ees) ees( d) |
 	d16(\trill c d8) d16(\trill c d8) d16(\trill c d8) |
 	d g,16( d') ees8( d) d( c) |
-	c16(\trill b c8) c16(\trill b c8) d16(\trill b c8) |
+	c16(\trill b c8) c16(\trill b c8) c16(\trill b c8) |
 	c d,16( c') d8( c) bes\trill a |
 	g4 bes r8 d |
 	ees c bes a g fis |
@@ -80,7 +80,7 @@ violinIIc = \relative {
 	g4 r r |
 	f32(\trill e f8.) c'32(\trill b c8.) a32(\trill g a8.) |
 	f4 r r |
-	e32(\trill d e8.) bes32(\trill a bes8.) g32(\trill f g8.) |
+	e32(\trill d e8.) bes'32(\trill a bes8.) g32(\trill f g8.) |
 	e4 r r |
 	d32(\trill cis d8.) f32(\trill e f8.) a8( f) |
 	bes g f e d cis |
