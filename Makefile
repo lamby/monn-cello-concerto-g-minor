@@ -6,4 +6,4 @@ all: $(SOURCES)
 	lilypond $<
 
 clean:
-	rm -f *.pdf
+	rm -f *.pdf *.midi
