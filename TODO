@@ -1,10 +1,17 @@
 TODO
-----
+====
 
- * Solo cello part
+Milestone 1: Send parts around
+------------------------------
+
  * Part spacing
  * Check all parts have tuttis (disable \mark temporarily?)
  * Tempo?
  * MIDI test
  * Collapse bar rests in parts
  * Page turns in parts
+
+Milestone 2: Send updated score around
+--------------------------------------
+
+ * Solo cello part
