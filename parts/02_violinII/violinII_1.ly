@@ -10,8 +10,8 @@ violinIIa = \relative {
 	g'8_\forte bes16. d32 g4~ g16 bes a g a8 fis |
 	g d ees4. cis8 d4 |
 	r8 b c4. bes8 fis g |
-	g\trill( fis) r4 r16 d'(_\piano ees d) ees( fis) g( d) |
-	d8( c) bes4 r16 d,16( ees d) ees( fis) g( d) |
+	g\trill( fis) r4 r16 d'(_\piano ees d) ees( f) g( d) |
+	d8( c) bes4 r16 d,16( ees d) ees( f) g( d) |
 	d8( c\trill) bes4 r \times 2/3 { a16_\forte bes c d ees f } |
 	bes8 g' \times 2/3 { c,16 d ees f g a bes a g f ees d g f ees d c bes } |
 	ees8. d32 c bes8 a \times 2/3 { bes16_\piano a g f ees d g f ees d c bes } |

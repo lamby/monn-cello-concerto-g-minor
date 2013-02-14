@@ -38,7 +38,7 @@ bassa = \relative {
 	g'8 g g b, c ees f g |
 	c, c, r4 f' a |
 	bes, r bes d |
-	ees r8 bes_\pianissimo d4 r8 g |
+	ees r8 ees_\pianissimo d4 r8 g |
 	c,4 r8 f bes,4 r8 e |
 
 	# 30
