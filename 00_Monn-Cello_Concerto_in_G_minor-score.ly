@@ -24,6 +24,11 @@
 \include "parts/04_bass/bass_2.ly"
 \include "parts/04_bass/bass_3.ly"
 
+\paper {
+	indent = 2.5 \cm
+	short-indent = 1 \cm
+}
+
 \layout {
 	\context {
 		\Score
