@@ -11,7 +11,7 @@ violinIa = \relative c'' {
 	bes g, r16 bes' c bes a( bes) a8 r16 a bes a |
 	g(\trill fis g8.) bes16 a g fis d g d a' d, bes' d, |
 	a'( d) d,8 r4 r16 f(_\piano g f) g( a) bes( f) |
-	f8( ees) d4 r16 f,( g f) g( a) bes( g) |
+	f8( ees) d4 r16 f,( g f) g( a) bes( f) |
 	f8( ees) d4 \times 2/3 { g16[_\forte a bes] c[ d ees] } a,8 f' |
 	\times 2/3 { bes,16[ c d] ees [f g] } c,8 a' \times 2/3 { d16 c bes a g f } \times 2/3 { bes a g f ees d } |
 	g8. f32 ees d8 c \times 2/3 { d16_\piano c bes a g f bes a g f ees d } |
