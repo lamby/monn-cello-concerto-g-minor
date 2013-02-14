@@ -25,7 +25,7 @@ bassa = \relative {
 	g4 r r2 |
 	g'8_\piano g g g d fis g g, |
 	c_\forte a' fis d c a' fis d |
-	g bes, c d g4_\piano r |
+	g bes, c d g4 r |
 	r8 ees c d g g,_\piano bes d |
 	g ees_\forte-| c-| d-| g,4 r |
 
