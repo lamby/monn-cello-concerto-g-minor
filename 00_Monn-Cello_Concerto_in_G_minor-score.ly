@@ -1,19 +1,8 @@
 \version "2.14.0"
 
-#(set-global-staff-size 16)
-
 \include "includes/global.ly"
 
-\paper {
-	#(set-paper-size "a4")
-	head-separation = 1 \cm
-	line-width = 16 \cm
-	horizontal-shift = 0.5 \cm
-	top-margin = 2 \cm
-	bottom-margin = 2 \cm
-	obsolete-between-system-padding=#2  system-system-spacing
-	#'padding = #(/ obsolete-between-system-padding staff-space)  score-system-spacing #'padding = #(/ obsolete-between-system-padding staff-space)
-}
+#(set-global-staff-size 16)
 
 \include "parts/00_solo_cello/solo_cello_1.ly"
 \include "parts/00_solo_cello/solo_cello_2.ly"

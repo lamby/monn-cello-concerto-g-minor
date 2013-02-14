@@ -5,6 +5,18 @@ tutti = \mark \markup { \small TUTTI }
 
 #(set-default-paper-size "a4")
 
+\paper {
+	#(set-paper-size "a4")
+	head-separation = 1 \cm
+	line-width = 17 \cm
+	top-margin = 2 \cm
+	bottom-margin = 2 \cm
+	indent = 0 \cm
+	obsolete-between-system-padding=#2  system-system-spacing
+	#'padding = #(/ obsolete-between-system-padding staff-space)  score-system-spacing #'padding = #(/ obsolete-between-system-padding staff-space)
+}
+noindent = ##t
+
 globala = {
 	\set Score.skipBars = ##t
 	\crescTextCresc
