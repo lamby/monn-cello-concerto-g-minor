@@ -21,8 +21,8 @@ bassc = \relative {
 	bes8 d a d g, d' |
 	fis, a d, ees d c |
 	bes d g,4 r |
-	fis8 a d4 r |
-	g a bes |
+	fis8 a d,4 r |
+	g' a bes |
 	c r r |
 	f, g a |
 	bes r r |
