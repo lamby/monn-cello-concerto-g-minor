@@ -92,7 +92,7 @@ bassa = \relative {
 	# 70
 	c e f r |
 	d fis g r |
-	d_\pianisso fis g r |
+	d_\pianissimo fis g r |
 	g8_\piano g g g g g g g |
 	f f f f f f f f |
 	e e e e a, a a a |

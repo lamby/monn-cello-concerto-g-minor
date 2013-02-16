@@ -13,9 +13,9 @@ violinIb =  \relative {
 	g( bes aes) f( aes g) ees( g f) r4 f,8_\piano |
 	g( bes aes) f( aes g) ees( g f) r4 bes8_\forte |
 	bes8. c16 bes8 bes8. c16 d8 ees4. f4~ f16 g32 aes32 |
-	g8. d16 ees8 bes,8. ees'16 d8 ees, bes'16(_\mezzopiano c) bes( c) bes8 aes16( g) aes( f) |
-	g8 g'16(_\mezzoforte aes) g( aes) g8 f16( ees) f( d) ees8 c,16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
-	bes,8 bes'16( aes) g( f) g aes f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
+	g8. d16 ees8 bes,8. ees'16 d8 ees, bes'16(_\piano c) bes( c) bes8 aes16( g) aes( f) |
+	g8 g'16(_\forte aes) g( aes) g8 f16(_\piano ees) f( d) ees8 c,16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
+	bes,8 bes'16( aes) g( f) g ees' \grace g,8 f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
 	\solo R1*12/8 |
 	R1*12/8 |
 	R1*12/8 |
@@ -31,8 +31,8 @@ violinIb =  \relative {
 	r2. r4. r4 f8_\forte |
 	\tutti bes4 d8 f4 f,8 g8. a16 bes8 r4 ees8 |
 	f,8. ees'16 d8 g4 bes,8 a8. g16 f8 r4 f'8 |
-	f8. g16 f8 f8. g16 a8 bes4. bes~ |
-	bes8. f16 bes8 f,8. bes'16 a8 bes,4 r8 r4. |
+	f8. g16 f8 f8. g16 a8 bes4. c~ |
+	c8. f,16 bes8 f,8. bes'16 a8 bes,4 r8 r4. |
 	\solo R1*12/8 |
 	R1*12/8 |
 	r4. aes'4_\piano r8 r4. g4 r8 |
@@ -57,12 +57,12 @@ violinIb =  \relative {
 	bes2. bes,4. r4 r8 |
 	r4 ees,8 f4 f8 ees4 bes8 f'4 r8 |
 	r2. r4 r8 r4 bes'8_\forte |
-	\tutti g( bes aes) f( aes g) ees( g f) r4 f,8 |
-	g( bes aes) f( aes g) ees( g f) r4 bes8 |
+	\tutti g( bes aes) f( aes g) ees( g f) r4 f,8_\piano |
+	g( bes aes) f( aes g) ees( g f) r4 bes8_\forte |
 	bes8. c16 bes8 bes8. c16 d8 ees4. f4~ f16 g32 aes |
 	g8. d16 ees8 bes,8. ees'16 d8 ees, bes'16(_\piano c) bes( c) bes8 aes16( g) aes( f) |
-	g8 g'16(_\forte aes) g( aes) g8 f16( ees) f( d) ees8 c,16 bes aes g aes8 f'16. aes32 d,16. f32 |
-	bes,8 bes'16( aes) g( f) g aes f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
+	g8 g'16(_\forte aes) g( aes) g8 f16(_\piano ees) f( d) ees8 c,16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
+	bes,8 bes'16( aes) g( f) g ees' \grace g,8 f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
 
 	\bar ".|."
 }
