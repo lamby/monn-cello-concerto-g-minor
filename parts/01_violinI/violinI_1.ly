@@ -112,8 +112,8 @@ violinIa = \relative c'' {
 	bes16 d c bes c8 a bes16 a g8 r16 bes c bes |
 	a( bes) a8 a,16 a' bes a g(\trill fis g8) g,16 g' a g |
 
-	fis d g d a' d, bes' d, a'( d) d,8 \solo r4 |
-	r2 r8 g,16(_\piano aes) g4 |
+	fis d g d a' d, bes' d, a'( d) d,8 r4 |
+	\solo r2 r8 g,16(_\piano aes) g4 |
 	r2 r8 f16( g) f4 |
 	r2 r8 ees16( f) ees4 |
 	r2 r8 bes'( c) c, |

@@ -98,8 +98,8 @@ violaa = \relative {
 	g, d' ees a bes4 r8 bes16 c |
 	d8 g ees d d4 r8 g |
 	a4 r8 d, g4 r8 c, |
-	d d d d d d \solo r4 |
-	R1 |
+	d d d d d d r4 |
+	\solo R1 |
 	R1 |
 	R1 |
 	R1 |

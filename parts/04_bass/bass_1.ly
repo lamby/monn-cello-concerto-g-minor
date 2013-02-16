@@ -104,8 +104,8 @@ bassa = \relative {
 	# 80
 	r8 bes g a \tutti d_\forte d' d c |
 	bes f g a d, d, r d'16 e |
-	f8 bes g \solo a d,4_\piano r |
-	g, r c r |
+	f8 bes g a \solo d,4 r |
+	g,_\piano r c r |
 	f r bes r |
 	ees, r a r |
 	d, r g, fis |

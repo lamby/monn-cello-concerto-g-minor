@@ -33,7 +33,7 @@ violinIIa = \relative {
 	R1 |
 	r8 ees16( f) ees4 r2 |
 	r8 d16( ees) d4 r2 |
-	r8 ees'16(_\pianissimo f) ees4 r4 r8 bes |
+	r8 ees'16( f) ees4 r4 r8 bes_\pianissimo |
 	ees4 r8 a, d4 r8 g, |
 	c4 r8 a bes4 r8 bes' |
 	a4 r8 a, c a bes g |
