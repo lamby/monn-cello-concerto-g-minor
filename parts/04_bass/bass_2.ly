@@ -14,18 +14,18 @@ bassb = \relative {
 	r2. r4 bes8 bes,4 r8 |
 	r2. r4 bes'8_\piano bes,4 d8_\forte |
 	ees8. g16 bes8 d,8. f16 bes8 c,4. d |
-	ees g8 bes8 bes,8 ees4 r8 r8 bes' bes, |
-	ees4 r8 r8 bes'8 bes, ees c16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
+	ees g8 bes8 bes,8 ees4 r8 r8 bes'_\piano bes, |
+	ees4 r8 r8 bes'8_\piano bes, ees c16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
 	bes,8 bes'16 aes g f g c bes8 bes, ees16. bes32 ees16. bes32 g16. bes32 ees,4 r8 |
 	\solo ees'4_\piano ees8 g4 g8 aes4 aes8 c,4 c8 |
 	d4 ees8 aes,4 a8 bes8. d16 f8 bes4 d,8 |
 	ees4. r4 c8 f4. r4 d8 |
-	g4 ees8 aes4 a8 bes4._\forte bes,4 d8_\piano |
+	g4 ees8 aes4 a8 bes4. bes,4 d8 |
 	ees4 r8 c'4 r8 d,4 r8 bes'4 r8 |
 	c,4 r8 a'4 r8 bes,4 r8 c4 r8 |
 	d4 r8 ees4 e8 f4_\forte r8 f,4 r8 |
 	r4 g'8_\piano a4 f8 bes4 bes,8 a4 f'8 |
-	bes, c d ees f f, bes8._\forte d16 f8 bes4 r8 |
+	bes, c d ees f f, bes8. d16 f8 bes4 r8 |
 	r2. r4 f8_\forte f,4 r8 |
 	r2. r4 f'8_\piano f,4 r8 |
 	r4 g'8 a4 f8 bes4 bes,8 a4 f'8 |
@@ -53,8 +53,8 @@ bassb = \relative {
 	R1*12/8 |
 	r2. r8 bes,16(_\forte c) bes( c) bes4 r8 |
 	r4 c8_\piano d4 bes8 ees4 g8 d4 bes8 |
-	ees f g aes bes bes, ees8._\forte bes16 g8 ees4 r8 |
-	r2. r4 bes''8 bes,4 r8 |
+	ees f g aes bes bes, ees8. bes16 g8 ees4 r8 |
+	r2. r4 bes''8_\piano bes,4 r8 |
 	r2. r4 bes'8 bes,4 r8 |
 	r4 c8 d4 bes8 ees4 g8 d4 bes8 |
 	ees f g aes bes bes, ees8. bes16 g8 ees4 r8 |

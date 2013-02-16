@@ -70,7 +70,7 @@ violaa = \relative {
 	g_\piano ees' g, ees' r c_\forte bes aes |
 	\solo g4 r r r8 ees'_\forte |
 	d( ees) r ees_\piano d( ees) r4 |
-	r2 r4 r8 c_\mezzoforte |
+	r2 r4 r8 c_\forte |
 	d( ees) r c_\piano d( ees) r4 |
 	r8 ees f g aes aes, g4 |
 	R1 |
@@ -78,7 +78,7 @@ violaa = \relative {
 	r8 bes bes bes bes4 r |
 	r8 c c c c4 r |
 	r8 d d d d4 r |
-	r8 d d d d4 r |
+	r8 d_\pianissimo d d d4 r |
 	R1 |
 	R1 |
 	R1 |
@@ -95,7 +95,7 @@ violaa = \relative {
 	r d d r |
 	R1 |
 	r2 \tutti bes4_\forte r8 d |
-	g, d' ees c bes4 r8 bes16 c |
+	g, d' ees a bes4 r8 bes16 c |
 	d8 g ees d d4 r8 g |
 	a4 r8 d, g4 r8 c, |
 	d d d d d d \solo r4 |

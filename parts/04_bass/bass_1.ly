@@ -79,7 +79,7 @@ bassa = \relative {
 
 	# 60
 	ees ees, ees' ees, r aes bes bes, | 
-	ees' ees, ees' ees, r aes_\forte bes bes, |
+	ees'_\piano ees, ees' ees, r aes_\forte bes bes, |
 	\solo ees4 r r r8 ees_\forte |
 	d( ees) r ees_\piano d( ees) r4 |
 	r2 r4 r8 c_\forte |
@@ -91,9 +91,9 @@ bassa = \relative {
 
 	# 70
 	c e f r |
-	d_\mezzoforte fis g r |
-	d_\piano fis g r |
-	g8 g g g g g g g |
+	d fis g r |
+	d_\pianisso fis g r |
+	g8_\piano g g g g g g g |
 	f f f f f f f f |
 	e e e e a, a a a |
 	d4 r8 d cis4 r8 a |
@@ -121,12 +121,12 @@ bassa = \relative {
 	f, a bes r |
 	ees, g a r |
 	d, fis g8 g, r a' |
-	bes bes, r c r d d d |
+	bes bes, r c r d_\pianissimo d d |
 	r d d d r d d d |
 	r d d d r d d d |
 
 	# 100
-	r d d d g, a bes c |
+	r d d d g,_\piano a bes c |
 	d c bes c bes ees c d |
 	g,4 r r8 ees' c d |
 	g4 r r8 ees c d |
