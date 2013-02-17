@@ -175,7 +175,7 @@ violinIIc = \relative {
 	r8 g_\forte-| ees-| g-| cis,-| g'-| |
 	d4-| r r |
 	R2. |
-	R2. |
+	\tutti R2. |
 	ees'16(\trill_\forte d ees8) ees16(\trill d ees8) ees16(\trill d ees8) |
 	ees a,16( ees') f8( ees) ees( d) |
 	d16(\trill c d8) d16(\trill c d8) d16(\trill c d8) |
