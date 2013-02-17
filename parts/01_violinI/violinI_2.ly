@@ -15,7 +15,7 @@ violinIb =  \relative {
 	bes8. c16 bes8 bes8. c16 d8 ees4. f4~ f16 g32 aes32 |
 	g8. d16 ees8 bes,8. ees'16 d8 ees, bes'16(_\piano c) bes( c) bes8 aes16( g) aes( f) |
 	g8 g'16(_\forte aes) g( aes) g8 f16(_\piano ees) f( d) ees8 c,16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
-	bes,8 bes'16( aes) g( f) g ees' \grace g,8 f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
+	bes,8 bes'16( aes) g( f) g16. ees'32 \grace g,8 f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
 	\solo R1*12/8*3 |
 	r2. r8 bes16(_\forte c) bes( c) bes4 r8 |
 	r4. g''4_\piano r8 r4. f4 r8 |
@@ -58,7 +58,7 @@ violinIb =  \relative {
 	bes8. c16 bes8 bes8. c16 d8 ees4. f4~ f16 g32 aes |
 	g8. d16 ees8 bes,8. ees'16 d8 ees, bes'16(_\piano c) bes( c) bes8 aes16( g) aes( f) |
 	g8 g'16(_\forte aes) g( aes) g8 f16(_\piano ees) f( d) ees8 c,16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
-	bes,8 bes'16( aes) g( f) g ees' \grace g,8 f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
+	bes,8 bes'16( aes) g( f) g16. ees'32 \grace g,8 f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
 
 	\bar ".|."
 }
