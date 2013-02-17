@@ -42,7 +42,7 @@ violinIb =  \relative {
 	r2. r4 r8 r4 g'8_\forte |
 	ees( g f) d( f ees) c( ees d) r4 g,8_\piano |
 	ees( g f) d( f ees) c( ees d) r4 r8 |
-	\solo R1*12/8 |
+	R1*12/8 |
 	R1*12/8 |
 	r2. r4 r8 r4 bes'8_\forte |
 	\tutti ees4 g8 bes4 bes,8 c8. d16 ees8 r4 aes,8 |
