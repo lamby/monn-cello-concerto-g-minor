@@ -8,7 +8,7 @@ tutti = \mark \markup { \small TUTTI }
 \paper {
 	#(set-paper-size "a4")
 	head-separation = 1 \cm
-	line-width = 17 \cm
+	line-width = 17.5 \cm
 	top-margin = 2 \cm
 	bottom-margin = 2 \cm
 	indent = 0 \cm
