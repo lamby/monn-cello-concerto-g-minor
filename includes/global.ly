@@ -80,13 +80,6 @@ mezzoforte = \markup {
 	}
 }
 
-mezzopiano = \markup {
-	\center-align \concat {
-		\bold { \italic ( }
-		\dynamic mp \bold { \italic ) }
-	}
-}
-
 piano = \markup {
 	\center-align \concat {
 		\bold { \italic ( }
