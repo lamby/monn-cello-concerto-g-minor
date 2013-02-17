@@ -81,7 +81,7 @@ violinIa = \relative c'' {
 	\times 2/3 { g'16_\piano f ees d c bes ees d c bes aes g } aes8._\forte g32 f ees8 d |
 	ees4 r r r8 ees_\forte |
 	d( ees) r ees_\piano d( ees) r4 |
-	r2 r4 r8 aes_\forte |
+	\solo r2 r4 r8 aes_\forte |
 	aes( g) r aes,_\piano aes( g) r4 |
 	r8 ees' f g aes aes, g4 |
 	r2 r4 r8 g' aes g f ees bes f'16( g) f8 f |
