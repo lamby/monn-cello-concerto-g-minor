@@ -48,9 +48,7 @@ bassb = \relative {
 	g' g, r aes' aes, r bes bes' c, bes8. aes'16(_\forte g f) |
 	\tutti ees4 ees8 g4 g8 aes4 aes8 c,4 c8 |
 	d4 ees8 aes,4 a8 bes8. d16 f8 bes4 r8 |
-	\solo R1*12/8 |
-	R1*12/8 |
-	R1*12/8 |
+	\solo R1*12/8*3 |
 	r2. r8 bes,16(_\forte c) bes( c) bes4 r8 |
 	r4 c8_\piano d4 bes8 ees4 g8 d4 bes8 |
 	ees f g aes bes bes, ees8. bes16 g8 ees4 r8 |

@@ -6,10 +6,7 @@ violinIIc = \relative {
 	\globalc
 
 	#1
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	R2.*4 |
 	d'16\trill(_\forte cis d8) r16 a b cis d e f d |
 	e(\trill d e8) r16 a, cis d e f g e |
 	f8 a e a d, a' |
@@ -38,16 +35,7 @@ violinIIc = \relative {
 	d-| ees(_\piano d c) c' a_\forte |
 	bes ees, c4 d |
 	g,8 bes16 d g4 r |
-	\solo R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	\solo R2.*10 |
 	f4_\piano f f |
 	g g g |
 	a a a |
@@ -57,13 +45,7 @@ violinIIc = \relative {
 	a, f' r |
 	a, g' r |
 	a, a' r |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	R2.*7 |
 	r8 d_\forte-| bes-| d-| gis,-| d'-| |
 	a4-| r r |
 	r8 d,_\forte-| bes-| d-| gis,-| d'-| |
@@ -87,10 +69,7 @@ violinIIc = \relative {
 	d32(\trill cis d8.) f32(\trill e f8.) a16( f a8) |
 	bes8 g f e d cis |
 	\solo d4 r r |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	R2.*4 |
 	r4 g'_\piano g, |
 	e' r r |
 	r f f, |
@@ -118,9 +97,7 @@ violinIIc = \relative {
 	f-| f16_\piano a c8 a16 c ees8 c16_\forte ees |
 	d8 g, ees4 f |
 	\solo bes, r r |
-	R2. |
-	R2. |
-	R2. |
+	R2.*3 |
         \tutti c'16(\trill_\forte b c8) r16 g a b c d ees c | 
         d(\trill c d8) r16 g, b c d ees f d | 
 	ees8 g d g c, g' |
@@ -138,20 +115,14 @@ violinIIc = \relative {
 	r d fis |
 	g f ees |
 	d r r |
-	R2. |
-	R2. |
+	R2.*2 |
 	\tutti R2. |
 	R2. |
         g16(\trill_\forte fis g8) r16 d e fis g a bes g | 
         a16(\trill g a8) r16 d, fis g a bes c a | 
 	bes8 d a d g, d' |
 	fis, a d,4 r |
-	\solo R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	\solo R2.*6 |
 	bes'4_\piano bes a |
 	g g f |
 	ees ees' d |
@@ -161,9 +132,7 @@ violinIIc = \relative {
 	d g r |
 	d a' r |
 	d, bes' r |
-	R2. |
-	R2. |
-	R2. |
+	R2.*3 |
 	r8 d, fis a fis d |
 	g4 r r |
 	r8 d g bes g d |

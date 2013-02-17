@@ -32,6 +32,7 @@ globala = {
 	\override Score.BarNumber  #'stencil
 		= #(make-stencil-boxer 0.1 0.25 ly:text-interface::print)
 	\set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
+	\compressFullBarRests
 }
 
 globalb = {
@@ -48,6 +49,7 @@ globalb = {
 	\override Score.BarNumber  #'stencil
 		= #(make-stencil-boxer 0.1 0.25 ly:text-interface::print)
 	\set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
+	\compressFullBarRests
 }
 
 globalc = {
@@ -64,6 +66,7 @@ globalc = {
 	\override Score.BarNumber  #'stencil
 		= #(make-stencil-boxer 0.1 0.25 ly:text-interface::print)
 	\set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
+	\compressFullBarRests
 }
 
 forte = \markup {

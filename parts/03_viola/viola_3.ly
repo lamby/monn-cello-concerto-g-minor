@@ -38,37 +38,7 @@ violac = \relative {
 	d4-| r r8 d_\forte |
 	g ees c4 d |
 	g,8 bes16 d g4 r |
-	\solo R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	\solo R2.*31 |
 	\tutti d4_\forte f d~ |
 	d cis a |
 	d d d |
@@ -87,9 +57,7 @@ violac = \relative {
 	a r a |
 	g8 d' a4 a |
 	\solo a r r |
-	R2. |
-	R2. |
-	R2. |
+	R2.*3 |
 	fis'4_\piano g a |
 	d, r r |
 	e f g |
@@ -99,11 +67,7 @@ violac = \relative {
 	a r r |
 	bes r r |
 	f r r |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	R2.*5 |
 	\tutti d'4_\forte f d |
 	ees c a' |
 	bes f g |
@@ -118,9 +82,7 @@ violac = \relative {
 	f4-| r r8 f_\forte |
 	bes g ees4 f |
 	\solo bes, r r |
-	R2. |
-	R2. |
-	R2. |
+	R2.*3 |
 	\tutti ees4_\forte g ees |
 	f d b' |
 	c g aes |
@@ -136,45 +98,14 @@ violac = \relative {
 	d' r r |
 	d r ees |
 	a, r r |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	R2.*4 |
 	\tutti g'4_\forte bes g~ |
 	g fis d |
 	g g, d' |
 	c a' fis |
 	d r g, |
 	d' r r |
-	\solo R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
-	R2. |
+	\solo R2.*29 |
 	\tutti R2. |
 	c4_\forte d ees |
 	f r r |

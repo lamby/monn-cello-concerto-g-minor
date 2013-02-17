@@ -16,9 +16,7 @@ violinIIb =  \relative {
 	ees4 bes'16( c) \grace g8 f4.\trill ees8 g16(_\piano aes) g( aes) g8 f16( ees) f( d) |
 	ees8 bes'16(_\forte c) bes( c) bes8 aes16(_\piano g) aes( f) g8 c,16_\forte bes aes g aes8 f'16. aes32 d,16. f32 |
 	bes,8 bes'16( aes) g( f) g ees' \grace g,8 f4\trill ees16. bes32 ees16. bes32 g16. bes32 <ees g,>4 r8 |
-	\solo R1*12/8 |
-	R1*12/8 |
-	R1*12/8 |
+	\solo R1*12/8*3 |
 	r2. r8 bes16(_\forte c) bes( c) bes4 r8 |
 	r4. ees'4_\piano r8 r4. d4 r8 |
 	r4. c4 r8 r f, bes~ bes a c~ |
@@ -33,8 +31,7 @@ violinIIb =  \relative {
 	f,8. ees'16 d8 g4 bes,8 a8. g16 f8 r4 c'8 |
 	d4. c bes4 ees8 ees8. d16 c8 |
 	d4 f16( bes) \grace d,8 c4.\trill bes4 r8 r4. |
-	\solo R1*12/8 |
-	R1*12/8 |
+	\solo R1*12/8*2 |
 	r4. f'4_\piano r8 r4. ees4 r8 |
 	r4. d4 r8 r4. c4 r8 |
 	r4. b4 r8 <ees, c'>4 r8 r4. |
@@ -42,8 +39,7 @@ violinIIb =  \relative {
 	r2. r4 r8 r4 ees'8_\forte |
 	c( ees d) b( d c) a( c b) r4 ees,8_\piano |
 	c( ees d) b( d c) a( c b) r4 r8 |
-	R1*12/8 |
-	R1*12/8 |
+	R1*12/8*2 |
 	r2. r4 r8 r4 bes'8_\forte |
 	ees4 g8 bes4 bes,8 c8. d16 ees8 r4 aes,8 |
 	bes,8. aes'16 g8 c4 ees,8 d8. c16 bes8 r4 g8_\piano |

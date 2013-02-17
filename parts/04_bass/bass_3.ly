@@ -109,8 +109,7 @@ bassc = \relative {
 	bes a f |
 	bes a g |
 	f r r |
-	R2. |
-	R2. |
+	R2.*2 |
 	bes16(\trill a bes8) r16 f g a bes c d bes |
 	c(\trill bes c8) r16 f, a bes c d ees c |
 	d8 f, c' f, bes f |
