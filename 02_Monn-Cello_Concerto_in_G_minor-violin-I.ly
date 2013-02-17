@@ -15,6 +15,8 @@
 
 \book {
 	\score { \violinIa }
+	\pageBreak
 	\score { \violinIb }
+	\pageBreak
 	\score { \violinIc }
 }

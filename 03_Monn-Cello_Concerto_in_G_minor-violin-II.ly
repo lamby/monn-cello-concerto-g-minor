@@ -5,8 +5,8 @@
 \header {
 	title = "Concerto per Violoncello, Archi e Basso Continuo"
 	tagline = ""
-	instrument = "Violon II"
 	composer = \markup \center-column { "Matthias Georg Monn" }
+	instrument = "Violon II"
 }
 
 \include "parts/02_violinII/violinII_1.ly"
@@ -15,6 +15,8 @@
 
 \book {
 	\score { \violinIIa }
+	\pageBreak
 	\score { \violinIIb }
+	\pageBreak
 	\score { \violinIIc }
 }

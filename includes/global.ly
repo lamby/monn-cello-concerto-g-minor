@@ -14,6 +14,7 @@ tutti = \mark \markup { \small TUTTI }
 	indent = 0 \cm
 	obsolete-between-system-padding=#2  system-system-spacing
 	#'padding = #(/ obsolete-between-system-padding staff-space)  score-system-spacing #'padding = #(/ obsolete-between-system-padding staff-space)
+	ragged-last-bottom = ##f
 }
 noindent = ##t
 

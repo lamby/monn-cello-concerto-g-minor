@@ -14,7 +14,9 @@
 \include "parts/04_bass/bass_3.ly"
 
 \book {
-\score { \bassa }
-\score { \bassb }
-\score { \bassc }
+	\score { \bassa }
+	\pageBreak
+	\score { \bassb }
+	\pageBreak
+	\score { \bassc }
 }
