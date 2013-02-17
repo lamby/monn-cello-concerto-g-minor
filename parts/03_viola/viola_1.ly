@@ -71,7 +71,7 @@ violaa = \relative {
 	r d d r |
 	R1 |
 	r2 \tutti bes4_\forte r8 d |
-	g, d' ees a bes4 r8 bes16 c |
+	g, d' ees a, bes4 r8 bes16 c |
 	d8 g ees d d4 r8 g |
 	a4 r8 d, g4 r8 c, |
 	d d d d d d r4 |
